@@ -19,9 +19,10 @@
 11. 0 minutes, stop heating, start cooler
 12. -30 minutes, XX °C
 13. Transfert to fermentation buckets
-14. 3 weeks in fermentation @ 19°C
-15. Transfert to keg
-16. Profit
+14. Drop one different Ale Yeast in each buckets
+15. 3 weeks in fermentation @ 19°C
+16. Transfert to keg
+17. Profit
 
 
 Gravity Origin : 1060  
