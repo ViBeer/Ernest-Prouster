@@ -1,7 +1,7 @@
 # Ernest-Prouster
 5' recipe for beer produced, Chocolate and Caramelish Soft Porter
 
-# Recipe for 11 Gal US
+# Recipe for 12 Gal US
 
 1. Heat 11 Gal of filtered water
 2. Steep at 65 °C for 30 minutes:
