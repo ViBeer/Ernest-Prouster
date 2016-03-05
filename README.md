@@ -13,16 +13,18 @@
 5. Add extract Malt
 6. Heat back to a boil
 7. When it boils start countdown time 60 minutes
-8. X minutes add Chinook Hops
-9. X minutes add Cascade Hops
-10. 5 minutes, add wort cooler
-11. 0 minutes, stop heating, start cooler
-12. -30 minutes, XX °C
-13. Transfert to fermentation buckets
-14. Drop one different Ale Yeast in each buckets
-15. 3 weeks in fermentation @ 19°C
-16. Transfert to keg
-17. Profit
+8. 60 minutes add 33g Chinook Hops
+9. 30 minutes add 50g Cascade Hops
+10. 15 minutes add 50g Cascade Hops
+11. 5 minutes, add wort cooler
+12. 0 minutes, stop heating, start cooler
+13. -30 minutes, XX °C
+14. Transfert to fermentation buckets
+15. Drop one different Ale Yeast in each buckets
+16. 3 weeks in fermentation @ 19°C
+17. Transfert to keg
+18. One week at 8 °C
+19. Profit
 
 
 Gravity Origin : 1060  
