@@ -7,7 +7,8 @@
 2. Steep at 65 °C for 30 minutes:
   - Carapils Malt,
   - Caramel Malt,
-  - Black Patent Malt
+  - Black Patent Malt,
+  - Chocolate Malt,
 3. Heat back to a boil
 4. Stop heating
 5. Add extract Malt
@@ -19,10 +20,10 @@
 11. 5 minutes, add wort cooler
 12. 0 minutes, stop heating, start cooler
 13. -30 minutes, XX °C
-14. Transfert to fermentation buckets
+14. Transfer to fermentation buckets
 15. Drop one different Ale Yeast in each buckets
 16. 3 weeks in fermentation @ 19°C
-17. Transfert to keg
+17. Transfer to keg
 18. One week at 8 °C
 19. Profit
 
